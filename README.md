@@ -1,5 +1,10 @@
-# Go Optimizer function
-## Optimizer
+# Go Optimizer algorithm
+## Optimizer algorithm
+An optimization algorithm is a method that minimizes the losses associated with machine learning to as little as possible.  
+However, it is nearly impossible to reduce losses to zero completely.  
+Therefore, efforts are made to reduce losses to as close to zero as possible by using optimization algorithms.  
+
+note : Loss is the difference between the prediction and the result when performing machine learning.  
 
 ## Formula
 ### SGD(Stochastic Gradient Descent）
