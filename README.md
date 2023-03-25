@@ -3,20 +3,21 @@
 
 ## Formula
 ### SGD(Stochastic Gradient Descent）
-
+![SGD](https://user-images.githubusercontent.com/36861752/227699799-644b99c6-2cc0-4916-9713-83509eb06e09.png)
 ### AdaGrad
-
+![AdaGrad](https://user-images.githubusercontent.com/36861752/227699813-07a03909-725b-4f73-a76f-76a59dd5a2f9.png)
 ### RMSprop
-
+![RMSprop](https://user-images.githubusercontent.com/36861752/227699837-a602d74a-bf4d-4f83-b006-e524d7065350.png)
 ### AdaDelta
-
+![AdaDelta](https://user-images.githubusercontent.com/36861752/227699853-2e17ff47-5615-42b7-bdf2-263b60ccafd7.png)
 ### Adam
-
+![Adam](https://user-images.githubusercontent.com/36861752/227699879-8b67cb0a-3d33-4a0d-ac2f-728971b0e1af.png)
 ### Nadam
-
+![Nadam](https://user-images.githubusercontent.com/36861752/227699889-e680feff-033f-42cd-af3e-3aef08480df0.png)
 ### AMSGrad
-
+![AMSGrad](https://user-images.githubusercontent.com/36861752/227699911-2aeec1aa-66a2-4a17-aad3-b4914ea34c71.png)
 ### AdaBound
+![AdaBound](https://user-images.githubusercontent.com/36861752/227699926-217ea881-3b5b-4b1e-868a-ffa745cb8cd9.png)
 
 ## Code Sample in Adam
 ```Go
