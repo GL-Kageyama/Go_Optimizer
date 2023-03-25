@@ -1,6 +1,23 @@
 # Go Optimizer function
 ## Optimizer
 
+## Formula
+### SGD(Stochastic Gradient Descent）
+
+### AdaGrad
+
+### RMSprop
+
+### AdaDelta
+
+### Adam
+
+### Nadam
+
+### AMSGrad
+
+### AdaBound
+
 ## Code Sample in Adam
 ```Go
 type Adam struct {
